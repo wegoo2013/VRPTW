@@ -1,0 +1,9 @@
+Name: #Name
+#TYPE #vehicletypecount #customerNumber #depotNumber #speed
+#routeduration  #capacity
+...
+#id #x #y #servicetime #load #count #0 #starttime #endtime
+...
+#id #depotx #depoty #0 #0 #0 #0 #routeduration #capacity
+....
+
